@@ -1,3 +1,8 @@
+---
+title: "My first blog post"
+date: 2021-01-10
+---
+
 ## My first blog post
 
 So far I have been enjoying the experience with GitHub learning lab course.
